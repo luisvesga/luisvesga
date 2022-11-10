@@ -19,7 +19,7 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Habilidades
 
 <img align="left" alt="Google-Cloud" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
