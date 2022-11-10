@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&pause=1000&color=FF813F&width=435&lines=Search+Engine+Optimization;Search+Engine+Marketing;Auditor%C3%ADas+SEO;Consultor%C3%ADas+SEO;Estrategias+SEO;SEO+Off-Page;SEO+On-Page;Google+Adsense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&pause=1000&color=FF813F&width=435&lines=Search+Engine+Optimization;Search+Engine+Marketing;Auditor%C3%ADas+SEO;Consultor%C3%ADas+SEO;Estrategias+SEO;SEO+Off-Page;SEO+On-Page;Google+Adsense)](https://git.io/typing-svg)
 
 **`I'm a Specialist SEO Growth Strategy ⭐⭐⭐⭐⭐`**
 
