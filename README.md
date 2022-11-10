@@ -35,6 +35,7 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="XD" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" />
 <br />
 
 #
