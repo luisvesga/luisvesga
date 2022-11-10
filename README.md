@@ -21,10 +21,10 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
 ### ☕ Habilidades
 
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" />
 <img align="left" alt="Google-Cloud" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
