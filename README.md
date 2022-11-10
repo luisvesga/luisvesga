@@ -2,7 +2,7 @@
 
 **`I'm a Specialist SEO Growth Strategy ⭐⭐⭐⭐⭐`**
 
-Soy un experto en la optimización SEO de sitios web, para ser encontrados fácilmente por el usuario en la SERPs de Google. Debido a mi larga y constante trayectoria en este rubro, he podido ayudar a miles de profesionales y empresas a conseguir clientes mejorando sus conversiones con el desarrollo de Landing Pages optimizadas para alcanzar las primeras posiciones en Google. Se el TOP 1 en Google
+Soy un experto en la optimización SEO de sitios web, para ser encontrados fácilmente por el usuario en la SERPs de Google. Debido a mi larga y constante trayectoria en este rubro, he podido ayudar a miles de profesionales y empresas a conseguir clientes mejorando sus conversiones con el desarrollo de Landing Pages optimizadas para alcanzar las primeras posiciones en Google. [Se el TOP 1 en Google](https://luisvesga.com/#contrata-a-un-experto)
 
 Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
