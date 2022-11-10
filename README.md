@@ -21,7 +21,7 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
 ### ☕ Habilidades
 
-<img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
+<img align="left" alt="AWS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
 <img align="left" alt="Google-Cloud" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
