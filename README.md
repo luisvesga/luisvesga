@@ -1,4 +1,3 @@
-Servicios:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&pause=1000&color=FF813F&width=435&lines=Search+Engine+Optimization;Search+Engine+Marketing;Auditor%C3%ADas+SEO;Consultor%C3%ADas+SEO;Estrategias+SEO;SEO+Off-Page;SEO+On-Page;Google+Adsense)](https://git.io/typing-svg)
 
 **`I'm a Specialist SEO Growth Strategy ⭐⭐⭐⭐⭐`**
@@ -20,10 +19,10 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
 ---
 
-### 🧰 Habilidades
+### ☕ Habilidades
 
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws.svg" />
 <img align="left" alt="Google-Cloud" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
