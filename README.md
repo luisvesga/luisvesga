@@ -47,10 +47,10 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 [![🤠 Country & Western Music | Ambience for Work, Study and Relaxation | Luis Vesga ⭐](https://ytcards.demolab.com/?id=-BFThSnJEKs&title=%F0%9F%A4%A0+Country+%26+Western+Music+%7C+Ambience+for+Work%2C+Study+and+Relaxation+%7C+Luis+Vesga+%E2%AD%90&lang=en&timestamp=1664037510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "🤠 Country & Western Music | Ambience for Work, Study and Relaxation | Luis Vesga ⭐")](https://www.youtube.com/watch?v=-BFThSnJEKs)
 <!-- END YOUTUBE-CARDS -->
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Suscribete%20Para%20Más-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/LuisVesgaTV?sub_confirmation=1)
+
 #
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luisvesga&theme=highcontrast&locale=es)](https://git.io/streak-stats)
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/LuisVesgaTV?sub_confirmation=1)
 
 #
