@@ -52,4 +52,4 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 desarrollo web en agencias de publicidad y mercadeo. Experiencia en el desarrollo
 publicitario de marcas y productos por medios digitales, logrando la captación y fidelización
 de los clientes a través Google. Para más información pueden visitar mi portafolio y sitio
-web personal en [luisvesga.com](https://luisvesga.com/).
+web personal en https://luisvesga.com/.
