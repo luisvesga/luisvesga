@@ -43,3 +43,13 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 ### 📊 Estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luisvesga&theme=highcontrast&locale=es)](https://git.io/streak-stats)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Luis Vesga</h3></summary>
+ Con más de 5 años de trayectoria en el área de marketing digital, posicionamiento SEO y
+desarrollo web en agencias de publicidad y mercadeo. Experiencia en el desarrollo
+publicitario de marcas y productos por medios digitales, logrando la captación y fidelización
+de los clientes a través Google. Para más información pueden visitar mi portafolio y sitio
+web personal en [luisvesga.com](https://luisvesga.com/).
