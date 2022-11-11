@@ -45,6 +45,8 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
+#
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=luisvesga&theme=highcontrast&locale=es)](https://git.io/streak-stats)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/LuisVesgaTV?sub_confirmation=1)
