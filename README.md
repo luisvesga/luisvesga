@@ -29,7 +29,7 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 
 #
 
-### 📺 Ultimos Videos de Youtube
+### 📺 Canal de Youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![☕️ Relaxing Music for Study, Work or Meditation | Rain & Thunder | Luis Vesga ⭐](https://ytcards.demolab.com/?id=kMYyeXNBn0c&title=%E2%98%95%EF%B8%8F+Relaxing+Music+for+Study%2C+Work+or+Meditation+%7C+Rain+%26+Thunder+%7C+Luis+Vesga+%E2%AD%90&lang=en&timestamp=1667488128&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "☕️ Relaxing Music for Study, Work or Meditation | Rain & Thunder | Luis Vesga ⭐")](https://www.youtube.com/watch?v=kMYyeXNBn0c)
