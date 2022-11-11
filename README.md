@@ -43,5 +43,3 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 ### 📊 Estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luisvesga&theme=highcontrast&locale=es)](https://git.io/streak-stats)
-
-#
