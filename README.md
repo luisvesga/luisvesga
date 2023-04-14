@@ -36,7 +36,7 @@ Roles: SEO Manager | Auditor SEO | Analista SEO | Consultor SEO
 [![Oficialmente Estudiante LEGEND 💚](https://ytcards.demolab.com/?id=ssekOiDmtDI&title=Oficialmente+Estudiante+LEGEND+%F0%9F%92%9A&lang=en&timestamp=1668218576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Oficialmente Estudiante LEGEND 💚")](https://www.youtube.com/watch?v=ssekOiDmtDI)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Suscribete%20A%20Mi%20Canal-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@luisvesga.?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Suscribete%20A%20Mi%20Canal-red?style=for-the-badge&logo=video&logoColor=white"/>](https://luisvesga.com/youtube)
 
 #
 
